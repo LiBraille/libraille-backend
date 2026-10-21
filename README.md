@@ -2,7 +2,7 @@
 API REST em FastAPI para transliteração Braille Grau 1 e gestão de conteúdos.
 
 ```
-digitato-backend/
+libraille-backend/
 ├── app/
 │   ├── __init__.py
 │   ├── main.py                     # Inicialização do FastAPI e inclusão das rotas

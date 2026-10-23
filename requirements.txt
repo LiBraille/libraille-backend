@@ -1,4 +1,28 @@
+# Web Framework
 fastapi>=0.110.0
-uvicorn>=0.28.0
+uvicorn[standard]>=0.28.0
+python-multipart>=0.0.9
+
+# Config e Validação
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+
+# Banco de Dados
+sqlalchemy>=2.0.0
+pymysql>=1.1.0
+cryptography>=42.0.0
+
+# Autenticação
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+
+# Leitura e Extração de Documentos
+pypdf>=4.1.0
+ebooklib>=0.18
+beautifulsoup4>=4.12.0
+
+# Hardware / Comunicação
+pyserial>=3.5
+
+# Testes
 pytest>=8.0.0
-pydantic>=2.0.0

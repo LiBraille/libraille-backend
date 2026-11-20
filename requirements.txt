@@ -1,4 +1,4 @@
 fastapi
 uvicorn[standard]
 python-multipart
-git+https://github.com/LiBraille/Tradutor-Libraille.git@conexao_site
+git+https://github.com/LiBraille/Tradutor-Libraille.git@main

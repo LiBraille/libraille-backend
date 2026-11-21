@@ -1,1 +1,0 @@
-Pasta para colocar arquivos .txt ou .epub para testes
